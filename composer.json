@@ -1,0 +1,24 @@
+
+{
+  "name": "space48/magento2-language-en-gb",
+  "description": "English (British) language package for Magento 2",
+  "type": "magento2-language",
+  "version": "0.0.1",
+  "keywords": [
+    "magento",
+    "magento2",
+    "magento 2",
+    "plugin",
+    "module",
+    "english",
+    "language pack",
+    "en_GB",
+    "i18n",
+    "en"
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
